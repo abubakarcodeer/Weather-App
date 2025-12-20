@@ -10,7 +10,7 @@ var loadingMessage = document.querySelector(".loading_message");
 var weatherSection = document.querySelector(".weather_updates_section");
 
 // API Setup
-var apiKey = "3ac1790e21519f06101d6337766404c3";
+var apiKey = ""; // Add here your API key
 var apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 // Main Function
