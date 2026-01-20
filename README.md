@@ -49,5 +49,3 @@ https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}&un
 | 404   | City not found    |
 | 429   | Too many requests |
 
-
-If you like this project, please give it a ⭐ on GitHub.
